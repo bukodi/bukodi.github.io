@@ -1,8 +1,8 @@
-excerpt_separator: ""
-pygments: true
-markdown: kramdown
-url: http://bukodi.github.io
-title: Bukodi lászló
-tagline: A log of everyday life
-description: My awesome new site
-paginate: 20
+excerpt_separator:""
+pygments:true
+markdown:kramdown
+url:"http://bukodi.github.io"
+title:"Bukodi LÃ¡szlÃ³"
+tagline:"A log of everyday life"
+description:"My awesome new site"
+paginate:20
