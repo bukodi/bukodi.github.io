@@ -6,3 +6,5 @@ title:"Bukodi László"
 tagline:"A log of everyday life"
 description:"My awesome new site"
 paginate:20
+
+theme: jekyll-theme-hacker
